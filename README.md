@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eirikbaekkelund
 - 👀 I’m interested in sports and technology
-- 🌱 I’m currently learning python's applications towards machine learning.
+- 🌱 I’m currently working as a machine learning intern at Norwegian Tech firms RePack and Huddly.
 - 💞️ I’m looking to collaborate on any projects related to machine learning applications.
 - 📫 How to reach me: 
 emailL: eirikaab@icloud.com
