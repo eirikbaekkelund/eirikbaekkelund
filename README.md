@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects related to machine learning applications.
 - 📫 How to reach me: 
 email: eirikaab@icloud.com
-phone:  +4745297350
+| phone:  +4745297350
 
 <!---
 eirikbaekkelund/eirikbaekkelund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
