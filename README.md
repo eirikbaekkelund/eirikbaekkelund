@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a machine learning intern at Norwegian Tech firms RePack and Huddly.
 - 💞️ I’m looking to collaborate on any projects related to machine learning applications.
 - 📫 How to reach me: 
-emailL: eirikaab@icloud.com
+email: eirikaab@icloud.com
 phone:  +4745297350
 
 <!---
