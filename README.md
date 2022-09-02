@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eirikbaekkelund
+- 👋 Hi, I’m Eirik Aalstad Bækkelund.
 - 👀 I’m very interested in the world's energy transition and how big data can effectivize the transition.
-- 🌱 I’m currently working as a machine learning intern at Norwegian Tech firms Evyon and Aize.
+- 🌱 I’m currently working as a machine learning intern at the Norwegian startup Evyon.
 - 📫 How to reach me: 
 email: eirikaab@icloud.com
 | phone:  +4745297350
