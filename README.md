@@ -1,6 +1,6 @@
 # 👋 Eirik Aalstad Bækkelund.
 ***About me:***
-- 🤖 Aspiring Machine Learning Engineer and Data Scientist 
+- 🤖 Aspiring Machine Learning Engineer / Data Scientist (who really truly knows the difference)
 - 🏙️ Currently based in London, with roots in Oslo. 
 - 🎓Pursuing an MSc in Data Science and Machine Learning at University College London. Have a BSc in Applied Mathematics from the University of California, Los Angeles (UCLA) where I was a scholarship student-athlete in football/soccer 🏃‍♂️🏋️‍♂️
 -  📈 Enjoy solving challenging, innovative, and scalable problems.
