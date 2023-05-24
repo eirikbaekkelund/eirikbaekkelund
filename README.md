@@ -3,7 +3,7 @@
 - 🤖 Aspiring Machine Learning Engineer / Data Scientist
 - 🏙️ Currently based in London, with roots in Oslo. 
 - 🎓Pursuing an MSc in Data Science and Machine Learning at University College London. Have a BSc in Applied Mathematics from the University of California, Los Angeles (UCLA) where I was a scholarship student-athlete in football/soccer 🏃‍♂⚽️
--  📈 Enjoy solving challenging, innovative, and scalable problems.
+-  📈 Enjoy probabilistic frameworks and their applications to machine learning and the physical world.
 -  🔧  Work as an intern at Evyon where I help to develop digital twins of battery systems 🔋💻, giving optimised user recommendations 📊💡, and predicting battery degradation through AI 🤖🕵️‍♂️🧠.
 
 📫 How to reach me:  
