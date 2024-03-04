@@ -1,6 +1,6 @@
 # Eirik Aalstad Bækkelund
 ***About me:***
-- 🎓MSc in Data Science and Machine Learning at University College London. BSc in Applied Mathematics from the University of California, Los Angeles (UCLA) where I was a scholarship student-athlete in football/soccer 🏃‍♂⚽️
+- 🎓MSc in Machine Learning at University College London. BSc in Applied Mathematics from the University of California, Los Angeles (UCLA)
 -  📈 Enjoy probabilistic frameworks and their applications to machine learning and the physical world.
   
 📫 How to reach me:  
